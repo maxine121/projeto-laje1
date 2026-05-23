@@ -1,6 +1,16 @@
 [
 null,
-{"id":1,"expanded":false,"name":"intro","order":3,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":2,"expanded":true,"name":"Map001","order":1,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
-{"id":3,"expanded":false,"name":"Caverna 2","order":2,"parentId":2,"scrollX":0,"scrollY":0,"quick":false}
+{"id":1,"expanded":true,"name":"bifurcação","order":4,"parentId":3,"scrollX":654.6666666666666,"scrollY":413.3333333333333,"quick":false},
+{"id":2,"expanded":true,"name":"Map001","order":1,"parentId":0,"scrollX":598.8,"scrollY":412.79999999999995,"quick":false},
+{"id":3,"expanded":true,"name":"Sala Guarda Grande","order":2,"parentId":2,"scrollX":589.1999999999999,"scrollY":381.59999999999997,"quick":false},
+{"id":4,"expanded":false,"name":"Sala do Mago","order":3,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":5,"expanded":true,"name":"despensa","order":9,"parentId":1,"scrollX":802,"scrollY":443.5,"quick":false},
+{"id":6,"expanded":true,"name":"Calabouço Abandonado","order":10,"parentId":5,"scrollX":802,"scrollY":612.5,"quick":false},
+{"id":7,"expanded":false,"name":"Caverna Amaldiçoada","order":11,"parentId":6,"scrollX":1473,"scrollY":1152.5,"quick":false},
+{"id":8,"expanded":true,"name":"INTRO","order":12,"parentId":0,"scrollX":802,"scrollY":435.5,"quick":false},
+{"id":9,"expanded":true,"name":"dormitório","order":5,"parentId":1,"scrollX":535.6363636363636,"scrollY":346.90909090909093,"quick":false},
+{"id":10,"expanded":true,"name":"Sala de treinamento","order":6,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":true,"name":"entrada/saída","order":7,"parentId":10,"scrollX":589.1999999999999,"scrollY":372,"quick":false},
+null,
+{"id":13,"expanded":false,"name":"Caverna Entrada","order":8,"parentId":11,"scrollX":589.1999999999999,"scrollY":372,"quick":false}
 ]
